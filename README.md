@@ -2,8 +2,6 @@
 
 ## Overview
 
-The "Windows Form Applications in C#" project was developed utilizing the C# programming language, using Microsoft Visual Studio 2022. 
-
 The project encompasses various Windows Form applications, each designed to serve a specific purpose.
 
 ## Applications
